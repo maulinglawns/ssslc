@@ -1,0 +1,2 @@
+# ssslc
+Simple SSL checker
